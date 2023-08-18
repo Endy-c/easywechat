@@ -25,7 +25,7 @@
     "ext-curl": "*",
     "monolog/monolog": "^3.0",
     "nyholm/psr7": "^1.5",
-    "nyholm/psr7-server": "^1.0.2|dev-master",
+    "evit/psr7-server": "^1.0",
     "overtrue/socialite": "^3.5.4|^4.0.1",
     "psr/simple-cache": "^1.0|^2.0|^3.0",
     "psr/http-client": "^1.0",
